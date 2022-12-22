@@ -1,3 +1,4 @@
+2022-12-22: fix typo.
 2020-01-27-2302: just a test note.
 
   testing iPad App "Working Copy" (aka WC). 
@@ -7,3 +8,4 @@
   
       note: the tilde ( ~ ) works, 
             but had to include that "/.git" at the end 
+            
