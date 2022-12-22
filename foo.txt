@@ -1,7 +1,7 @@
 2020-01-27-2302: just a test note.
 
   testing iPad App "Working Copy" (aka WC). 
-  make an SSH connection, over wif,
+  make an SSH connection, over wifi,
   
   on WC, cloned ssh://{username}@{ip-address}/~{folder}/{subfolder}/.git
   
