@@ -1,3 +1,8 @@
+2022-12-23: The combination of {iPad, WorkingCopy, Textastic, github} still works.  
+  Python apps for the iPad:
+     Pythonista still functions, but not updated in a couple years. I've stopped using it.
+     Juno: runs local Jupyter, currently @ python 3.6.6, dev recently promised update.
+     Tinkerstellar: 
 2022-12-22: fix typo.
 2020-01-27-2302: just a test note.
 
