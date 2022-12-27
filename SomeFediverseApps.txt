@@ -1,3 +1,12 @@
-diaspora*   https://diasp.org/u/kaimerazatar
+diaspora*   https://diasp.org/u/kaimerazatar  2022-12: ~130 instances w/~7500 active users.
 Mastodon    https://mastodon.online/@kzatar
 wt.social   https://wt.social/u/kaimera-zatar
+
+Akkoma,     2022-12: ~400 instances w/~600 active users.
+Friendica   2022-12: ~400 instances w/~2700 active users.
+gnu.social
+Hubzilla    2022-12: ~100 instances w/~1K active users 
+Pixelfed
+Pleroma
+Plume
+WriteFreely
