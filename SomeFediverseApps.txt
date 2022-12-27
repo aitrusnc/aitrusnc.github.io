@@ -2,14 +2,19 @@ diaspora*   https://diasp.org/u/kaimerazatar  2022-12: ~130 instances w/~7500 ac
 Mastodon    https://mastodon.online/@kzatar   2022-12: 12K-20K instances w/~2.5M active users.
 wt.social   https://wt.social/u/kaimera-zatar 2022-12: Doubtful more than ~2K active users (if that).
 
-Akkoma,     2022-12: ~400 instances w/~600 active users.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Argh. I was planning to make accounts and try out a few more of these.
+After looking at dev/doc pages... Nope.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Friendica   2022-12: ~400 instances w/~2700 active users.
+Pixelfed    2022-12: ~400 instances w/~22K active users.
+
 Hubzilla    2022-12: ~100 instances w/~1K active users.
 lemmy       2022-12: ~80 instances w/~1500 active users.
-Pixelfed    2022-12: ~400 instances w/~22K active users.
+
 Pleroma     2022-12: ~1600 instances w/~32K active users.
-
-
+Akkoma,     2022-12: ~400 instances w/~600 active users.
+SoapBox,
 
 gnu.social  lol. forgot about that one. none of the links works.
 Plume       2022-12: The webpage for Plume states it's not maintained and recommends WriteFreely or WordPress. LMAO.
