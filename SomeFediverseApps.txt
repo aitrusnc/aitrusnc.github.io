@@ -1,11 +1,8 @@
-diaspora*   https://diasp.org/u/kaimerazatar  2022-12: ~130 instances w/~7500 active users.
-Mastodon    https://mastodon.online/@kzatar   2022-12: 12K-20K instances w/~2.5M active users.
-wt.social   https://wt.social/u/kaimera-zatar 2022-12: Doubtful more than ~2K active users (if that).
+diaspora*   2022-12: ~130 instances w/~7500 active users.
+Mastodon    2022-12: 12K-20K instances w/~2.5M active users.
+wt.social   2022-12: Doubtful more than ~2K active users (if that).
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Argh. I was planning to make accounts and try out a few more of these.
-After looking at dev/doc pages... Nope.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Friendica   2022-12: ~400 instances w/~2700 active users.
 Pixelfed    2022-12: ~400 instances w/~22K active users.
 
