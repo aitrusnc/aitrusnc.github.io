@@ -1,4 +1,5 @@
-2022-12-25: reverted index.html back to basically nothing.
+2022-12-26: minor edit index.html.
+2022-12-25: minor edit index.html.
 2022-12-23a: The combination of {iPad, WorkingCopy, Textastic, github} still works.  
 
 2022-12-23b: Python apps for the iPad:
