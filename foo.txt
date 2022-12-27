@@ -1,11 +1,8 @@
-2022-12-26: minor edit index.html.
-2022-12-25: minor edit index.html.
 2022-12-23a: The combination of {iPad, WorkingCopy, Textastic, github} still works.  
 
 2022-12-23b: Python apps for the iPad:
      Pythonista still functions, but not updated in a couple years. I've stopped using it.
      Juno: runs local Jupyter, currently @ python 3.6.6, dev recently promised update.
-     Tinkerstellar: 
      Carnets plus: runs local Jupyter, currently @ python 3.11.0
      
 2022-12-22: fix typo.
