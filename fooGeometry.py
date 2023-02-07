@@ -1,6 +1,6 @@
 #! /usr/bin/python
 #-*-coding: utf-8 -*-
-# 2023-02-07:
+# 2023-02-07: played w github's pylint action/workflow... not impressed.
 # 2022-12-21:
 # 2020-01-19:
 # calculates the area of squares, rectangles, or circles... and maybe triangles.
