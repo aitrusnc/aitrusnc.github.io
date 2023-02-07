@@ -5,18 +5,23 @@
 # 2020-01-19:
 # calculates the area of squares, rectangles, or circles... and maybe triangles.
 
+# calculates the area of squares
 def square(length):
     return length * length
 
+# calculates the area of rectangles
 def rectangle(width , height):
     return width * height
 
+# calculates the area of circles.
 def circle(radius):
     return 3.14159 * radius ** 2
 
+# calculates the area of... maybe triangles.
 def triangle(base , height):
     return base * height / 2
- 
+
+# present choices to user
 def options():
     print()
     print("Options:")
@@ -26,7 +31,8 @@ def options():
     print("t = calculate the area of a triangle.")
     print("q = quit")
     print()
- 
+    
+# do stuff
 print("This program will calculate the area of a square, circle or rectangle.")
 Choice = "x"
 options()
@@ -34,7 +40,7 @@ while Choice != "q":
     Choice = input("Please enter your choice: ")
     if Choice == "s":
         length = float(input("Length of square side: "))
-        print("The area of this square is", square(l))
+        print("The area of this square is", square(length))
         options()
     elif Choice == "c":
         radius = float(input("Radius of the circle: "))
@@ -55,4 +61,3 @@ while Choice != "q":
     else:
         print("Unrecognized option.")
         options()
-        
