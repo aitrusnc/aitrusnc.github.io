@@ -8,13 +8,13 @@
 def square(length):
     return length * length
 
-def float(rectangle(width , height)):
+def rectangle(width , height):
     return width * height
 
 def circle(radius):
     return 3.14159 * radius ** 2
 
-def float(triangle(base , height)):
+def triangle(base , height):
     return base * height / 2
  
 def options():
