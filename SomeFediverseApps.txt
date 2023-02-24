@@ -15,4 +15,4 @@ SoapBox,
 
 gnu.social  lol. forgot about that one. none of the links works.
 Plume       2022-12: The webpage for Plume states it's not maintained and recommends WriteFreely or WordPress. LMAO.
-WriteFreely 2022-12: It's such a basic/plain text editor that I don't even care.
+WriteFreely 2022-12: It's such a basic/plain text editor that I don't even care. 
